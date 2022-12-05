@@ -1,2 +1,2 @@
 # kazam_auto
-how to rn kazam and save it.
+how to run kazam and save it.
